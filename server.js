@@ -18,7 +18,6 @@ app.use(compression({
   },
   level: 9
 }));
-app.use('/silent', staticFile(`${__dirname}/src/silent.html`));
 
 // app.use(bodyParser.urlencoded({extended:true}));
 app.use(compression());
