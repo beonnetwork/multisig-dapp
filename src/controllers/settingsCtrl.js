@@ -71,7 +71,7 @@
             else {
               $scope.config.walletFactoryAddress = {
                 'address': $scope.config.walletFactoryAddress,
-                'name': 'Custom node'
+                'name': 'Custom node ' + $scope.config.walletFactoryAddress
               };
             }
 
