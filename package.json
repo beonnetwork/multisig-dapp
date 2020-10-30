@@ -95,7 +95,7 @@
     "browser-sync": "^2.24.4",
     "coffee-script": "*",
     "del": "^3.0.0",
-    "electron": "~1.8.4",
+    "electron": "~7.2.4",
     "electron-builder": "^20.0.5",
     "electron-packager": "^8.6.0",
     "electron-rebuild": "^1.7.2",
