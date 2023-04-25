@@ -92,7 +92,7 @@
   "devDependencies": {
     "asar": "^0.13.0",
     "babel-register": "^6.24.0",
-    "browser-sync": "^2.24.4",
+    "browser-sync": "^2.29.1",
     "coffee-script": "*",
     "del": "^3.0.0",
     "electron": "~1.8.4",
